@@ -1,5 +1,6 @@
 import React from "react";
-import ScreenTool from "./components/ScreenTool";
+import ScreenTool from "./ScreenTool";
+import './index.css';
 
 function App() {
   return (
